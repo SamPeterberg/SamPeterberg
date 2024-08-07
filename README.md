@@ -18,7 +18,7 @@
 <a href="https://codepen.io/yjdhxpet-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yjdhxpet-the-bashful" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameer ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameer ahmed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sameer ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sameer ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/sameerahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer ahmed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61556820652380&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer ahmed" height="30" width="40" /></a>
 <a href="https://instagram.com/sam_peterberg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_peterberg" height="30" width="40" /></a>
 </p>
 
