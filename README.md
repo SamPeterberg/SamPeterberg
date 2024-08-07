@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamPeterberg" alt="SamPeterberg" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5 ,CSS3 ,JAVASCRIPT ,TYPESCRIPT and much more**
+- 🌱 I’m currently learning **JAVASCRIPT**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
