@@ -15,7 +15,6 @@ SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=318CE7&
 
 <div align="center">
 	
-[![wakatime](https://wakatime.com/badge/user/153ed0ab-cf88-4ca3-9f5e-e78272220f06.svg?style=for-the-badge)](https://wakatime.com/@153ed0ab-cf88-4ca3-9f5e-e78272220f06)
 <img src="https://komarev.com/ghpvc/?username=SamPeterberg&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Sameer Ahmed" /> 
 
 </div>
