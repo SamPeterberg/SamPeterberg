@@ -15,7 +15,7 @@ SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=4000&color=318CE7&
 
 <div align="center">
 	
-<img src="https://komarev.com/ghpvc/?username=SamPeterberg&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Sameer Ahmed" /> 
+<img src="https://komarev.com/ghpvc/?username=SamPeterberg&label=Profile%20views&color=0e75b6&style=for-the-badge" width="100%" alt="Sameer Ahmed" /> 
 
 </div>
 
