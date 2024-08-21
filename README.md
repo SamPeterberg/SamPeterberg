@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome To My Profile</h1>
+<h1 align="center">Hi 👋, I am Sameer Ahmed</h1>
 <br/>
 
 <!-- animation start  -->
