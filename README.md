@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I am Sameer Ahmed</h1>
-<br/>
+<h1 align="center">Hi 👋, I am Sameer Ahmed Baluch. </h1>
+<h1 align="center">Software Developer. From Karachi,Pakistan</h1>
 
-<!-- animation start  -->
-![Typing
-SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=4000&color=318CE7&center=true&vCenter=true&width=1000&height=60&lines=%E2%9C%A8+Hi+%2C+I'm+++Sameer+++Ahmed+%F0%9F%92%AF;++MERN++Stack++Developer;Always++Learning++Something++New%F0%9F%92%A1;Dedicated+to+Work++%F0%9F%92%AA%F0%9F%8F%BB;Opportunity+Seeker++%F0%9F%92%AF;from+Karachi%2C+Pakistan.+%F0%9F%87%B5%F0%9F%87%B0)
-<!-- animation end  -->
-<br/>
-- 🌱 I’m currently learning **JAVASCRIPT**
+- 🌱 I’m currently learning JAVASCRIPT , React.js
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT , React.js**
 
 - 📫 How to reach me **mrsameerahmedbaluch@gmail.com**
 
