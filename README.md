@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-	    Hi, I am Sameer Baluch.
+	    Hi, Welcome to My Profile ❤️.
   </h1>
 </div>
 
@@ -18,11 +18,16 @@
       alt="Profile Views">
   </a>
 </p>
-
-<div align="right">
-  <a href="https://github.com/SamPeterberg">
-    <img alt="programming" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="500">
-  </a>
+<div>
+	
+# 💫 About Me:
+ - 👋 Hi, I’m Sameer-Baluch
+- 👀 I’m interested in IT and AI
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me mrsameerahmedbaluch@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡I also  Passionate about humanism, arts, literature, and philosophy..
 </div>
 
 ## Activity:
