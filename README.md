@@ -21,7 +21,7 @@
 <div>
 	
 # 💫 About Me:
- - 👋 Hi, I’m Sameer-Baluch
+ - 👋 Hi, I’m Sameer-Ahmed
 - 👀 I’m interested in IT and AI
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on web projects
