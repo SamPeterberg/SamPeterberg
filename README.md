@@ -21,9 +21,9 @@
 <div>
 	
 # 💫 About Me:
- - 👋 Hi, I’m Sameer-Ahmed
-- 👀 I’m interested in IT and AI
-- 🌱 I’m currently learning Software Development
+ - 👋 Hi, I’m Sameer.
+- 👀 I’m interested in App-development and AI
+- 🌱 I’m currently Working as React-Native Developer.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me mrsameerahmedbaluch@gmail.com
 - 😄 Pronouns: He/Him
