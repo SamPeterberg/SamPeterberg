@@ -108,7 +108,7 @@
   <p align="center">
     <div>
       <a href="https://github.com/SamPeterberg?tab=repositories">
-        <img alt="My Skills" src="https://skillicons.dev/icons?i=css,html,js,typescript,">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=css,html,js,typescript,react,">
       </a>
     </div>
         
@@ -130,7 +130,7 @@
   <p align="center">
     <div>
       <a href="https://github.com/SamPeterberg?tab=repositories">
-        <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,github">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,">
       </a>
     </div>
   </p>
@@ -150,7 +150,7 @@
   <p align="center">
     <div>
       <a href="https://github.com/SamPeterberg?tab=repositories">
-        <img alt="My Skills" src="https://skillicons.dev/icons?i=react,next,tailwind">
+        <img alt="My Skills" src="https://skillicons.dev/icons?i=react,next,tailwind,vite">
       </a>
     </div>
     <div>
@@ -197,6 +197,7 @@
     <div>
       <a href="https://www.microsoft.com">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+        <img alt="MacOS" src="https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=macos&logoColor=white">
       </a>
     </div>
   </p>
