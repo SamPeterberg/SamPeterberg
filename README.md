@@ -24,7 +24,7 @@
  - 👋 Hi, I’m Sameer.
 - 👀 I’m interested in App-development and AI
 - 🌱 I’m currently Working as React-Native Developer.
-- 💞️ I’m looking to collaborate on web projects
+- 💞️ I’m looking to collaborate on React-Native projects
 - 📫 How to reach me mrsameerahmedbaluch@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡I also  Passionate about humanism, arts, literature, and philosophy..
